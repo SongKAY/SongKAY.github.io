@@ -17,12 +17,12 @@ github主页：https://github.com/SongKAY <br>
 * 荣誉/奖项：院科协技术部部长 / 优秀团员称号 / 连续三年获得学业优秀、科技创新等各项奖学金<br>
 * 项目及比赛：加入ACM校队，多次参加各类算法比赛并获奖，组队完成国家优秀级创训项目<br>
 
-## 论文
+# 论文
 
 * 在ACM Multimedia会议 (CCF-A) 上发表了一作长文《Explore Multi-Step Reasoning in Video Question Answering》( project page: https://svqa-founder.github.io/SVQA/) <br>
 * 在Pacific-Rim Conference on Multimedia会议 (CCF-C) 上发表了一作长文《VAL: Visual-attention Action Localizer》 <br>
 
-## 比赛
+# 比赛
 
 * 2019年ICDAR的自然场景下不规则形状中英文文字识别比赛国际第二名/国内第一名<br>
 * 2016年The ACM-ICPC Asia Regional Contest China-Final铜牌<br>
@@ -33,16 +33,16 @@ github主页：https://github.com/SongKAY <br>
 * 第四届河海大学程序设计大赛专业组三等奖<br>
 * 2016年南航-河海联合程序设计竞赛二等奖<br>
 
-## 项目
+# 项目
 * 2015年大学生创新创业训练计划项目"机器学习平台的研究"被评为国家级优秀项目<br>
 * 2019年8月参加字节跳动算法夏令营，担任"大规模图像标签分类"项目组长<br>
 
-## 实习
+# 实习
 * 2019年3月至今在商汤教育及视频大数据事业部图像视频多媒体解析组实习, 岗位为计算机视觉见习研究员, 研究方向为OCR相关<br>
 * 与一名同事组队参加了ICDAR2019比赛并取得国际第二名/国内第一名<br>
 * 实习期间积极参与了组内项目和真实场景业务, 并提供研究方面和代码方面的支持 (论文阅读/构建实验/搭建模型/模型训练测试/集成模块等<br>
 
-## 其他
+# 其他
 * 技能： Python (机器学习用) / C++ (算法用) / Tensorflow / Pytorch / Photoshop / 绘声绘影<br>
 * 学生工作： 曾任院科协技术部部长<br>
 * 语言： 英语 (CET-4 550分 / CET-6 508分 / TOEFL 100分 / GRE 318分)<br>
